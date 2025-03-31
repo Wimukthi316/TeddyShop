@@ -1,0 +1,96 @@
+<resources>
+    <!-- Existing strings -->
+    <string name="app_name">Teddy Shop</string>
+
+    <!-- Common Buttons -->
+    <string name="button_next">N E X T</string>
+    <string name="button_login">Login</string>
+    <string name="button_login_google">Login With Google</string>
+    <string name="button_login_apple">Login With Apple</string>
+    <string name="button_add_order">Add Order</string>
+    <string name="button_order_now">Order Now</string> <!-- Added for Screen09 -->
+
+    <!-- Common Navigation -->
+    <string name="navigation_back">Back</string>
+
+    <!-- Screen02 Strings -->
+    <string name="screen02_title">Pick, cuddle, and cherish!</string>
+    <string name="screen02_description">Teddy Shop offers the cutest, coziest teddy bears for every occasion. Browse, choose, and order your perfect cuddly companion with ease!</string>
+
+    <!-- Screen03 Strings -->
+    <string name="screen03_title">Snuggle up and start your bear adventure!</string>
+    <string name="screen03_description">Get started by signing up and placing your order. Enjoy quick and easy delivery right to your door!</string>
+
+    <!-- Screen04 Strings -->
+    <string name="screen04_title">Let\'s Get Started!</string>
+    <string name="screen04_description">Create your account and dive into a world of adorable teddy bears. Sign up now!</string>
+    <string name="screen04_username_hint">Username</string>
+    <string name="screen04_mobile_hint">Mobile Number</string>
+    <string name="screen04_email_hint">Email address</string>
+    <string name="screen04_password_hint">Password</string>
+    <string name="screen04_confirm_password_hint">Confirm Password</string>
+    <string name="screen04_terms_text">By signing up you agree with our Terms and Conditions</string>
+    <string name="screen04_signup_button_text">Sign Up</string>
+    <string name="screen04_login_prompt">Already have account? Sign in</string>
+
+    <!-- Screen05 Strings -->
+    <string name="screen05_welcome">Welcome Back!</string>
+    <string name="screen05_description">Sign in and step into the cuddly world of teddy bears. Your adventure starts here!</string>
+    <string name="screen05_username_hint">Username</string>
+    <string name="screen05_password_hint">Password</string>
+    <string name="screen05_forgot_password">Forget Password</string>
+
+    <!-- Screen06 Strings -->
+    <string name="screen06_greeting">Good Morning</string>
+    <string name="screen06_location">Sri Lanka, SP</string>
+    <string name="screen06_white_bear">White Bear</string>
+    <string name="screen06_red_bear">Red Bear</string>
+    <string name="screen06_blue_bear">Blue Bear</string>
+    <string name="screen06_yellow_bear">Yellow Bear</string>
+    <string name="screen06_search_hint">Find your best teddy bear</string>
+    <string name="screen06_hello">Hello!</string>
+    <string name="screen06_order_message">Order now, cuddle up a teddy!</string>
+
+    <!-- Screen07 Strings -->
+    <string name="screen07_white_bear_title">Snow White Bear</string>
+    <string name="screen07_white_bear_description">A cuddly, plush white teddy bear that’s perfect for hugs! With its fluffy fur, sweet smile, and cozy feel, it makes a lovable companion for kids and adults alike. Ideal for gifting or keeping as a snuggly friend.</string>
+    <string name="screen07_white_bear_price">Rs. 2000.00</string>
+
+    <!-- Screen08 Strings -->
+    <string name="screen08_red_bear_title">Christmas Red Hat Bear</string>
+    <string name="screen08_red_bear_description">A charming, plush red teddy bear that’s full of warmth and love! With its velvety soft fur, adorable smile, and huggable design, it’s the perfect companion for all ages. Whether as a heartfelt gift or a cozy cuddle buddy, this teddy bear is sure to bring joy and comfort.</string>
+    <string name="screen08_red_bear_price">Rs. 3500.00</string>
+
+    <!-- Common Checkbox Options -->
+    <string name="size_small">Small Size</string>
+    <string name="size_medium">Medium Size</string>
+    <string name="size_large">Large Size</string>
+
+    <!-- Common Quantity Text -->
+    <string name="quantity">1</string>
+
+    <!-- Screen09 Strings -->
+    <string name="screen09_cart_title">Cart</string>
+    <string name="screen09_red_bear_summary">Christmas Red Hat Bear\nRs.3500.00</string>
+    <string name="screen09_white_bear_summary">Snow White Bear\nRs.2000.00</string>
+    <string name="screen09_subtotal_delivery">Subtotal for Delivery</string>
+    <string name="screen09_subtotal_product">Subtotal for Product</string>
+    <string name="screen09_total">Total</string>
+    <string name="screen09_delivery_price">300.00</string>
+    <string name="screen09_product_price">5500.00</string>
+    <string name="screen09_total_price">5800.00</string>
+
+    <!-- Screen10 Strings -->
+    <string name="screen10_thank_you">Thank You!!</string>
+    <string name="screen10_order_success">You have placed your order successfully</string>
+
+    <!-- Screen11 Strings -->
+    <string name="screen11_user_name">Joe Rogan</string>
+    <string name="screen11_user_contact">ABC@gmail.com\n0713459986</string>
+    <string name="screen11_order_history">Order History</string>
+    <string name="screen11_red_bear_summary">Christmas Red Hat Bear\nRs.3500.00</string>
+    <string name="screen11_white_bear_summary">Snow White Bear\nRs.2000.00</string>
+
+    <!-- Screen12 Strings -->
+    <string name="screen12_exit_prompt">Do You Want to Exit?</string>
+</resources>
