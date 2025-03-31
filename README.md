@@ -24,9 +24,12 @@ Glide/Picasso for image loading
 ✅ Search & Filter Functionality
 
 
-![Teddy1](https://github.com/user-attachments/assets/352c0e1d-48d0-495f-8ffc-3947426bb92a)
-![Teddy2](https://github.com/user-attachments/assets/21b119fe-5b31-4060-b9a2-e53e25f0e3d9)
-![Teddy3](https://github.com/user-attachments/assets/ed4f2936-7c2e-4529-895e-7f79ff4abcda)
-![Teddy4](https://github.com/user-attachments/assets/11010ac3-9f87-4608-8ee8-677de8f78505)
-![Teddy5](https://github.com/user-attachments/assets/7c578966-2160-4607-abcc-a387c14298d2)
-![Teddy6](https://github.com/user-attachments/assets/ffa03b62-0e41-4fc4-b15b-09efdd1ebb43)
+<div>
+    <img src="https://github.com/user-attachments/assets/352c0e1d-48d0-495f-8ffc-3947426bb92a" alt="Teddy1" class="teddy-image" />
+    <img src="https://github.com/user-attachments/assets/21b119fe-5b31-4060-b9a2-e53e25f0e3d9" alt="Teddy2" class="teddy-image" />
+    <img src="https://github.com/user-attachments/assets/ed4f2936-7c2e-4529-895e-7f79ff4abcda" alt="Teddy3" class="teddy-image" />
+    <img src="https://github.com/user-attachments/assets/11010ac3-9f87-4608-8ee8-677de8f78505" alt="Teddy4" class="teddy-image" />
+    <img src="https://github.com/user-attachments/assets/7c578966-2160-4607-abcc-a387c14298d2" alt="Teddy5" class="teddy-image" />
+    <img src="https://github.com/user-attachments/assets/ffa03b62-0e41-4fc4-b15b-09efdd1ebb43" alt="Teddy6" class="teddy-image" />
+</div>
+
